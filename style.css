@@ -2,11 +2,11 @@
 
 @font-face {
     font-family: "Gilroy-Regular";
-    src: url(fonts/Gilroy-Regular.woff2) format("woff2"), url(fonts/Gilroy-Regular.woff) format("woff");
+    src: url(/fonts/Gilroy-Regular.woff2) format("woff2"), url(/fonts/Gilroy-Regular.woff) format("woff");
 }
 @font-face {
     font-family: "Gilroy-SemiBold";
-    src: url(fonts/Gilroy-SemiBold.woff2) format("woff2"), url(fonts/Gilroy-SemiBold.woff) format("woff");
+    src: url(/fonts/Gilroy-SemiBold.woff2) format("woff2"), url(/fonts/Gilroy-SemiBold.woff) format("woff");
 }
 
 :root {
